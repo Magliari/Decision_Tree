@@ -10,5 +10,8 @@ Utilizando-se o algoritmo de Árvore de decisão foi possível encontrar uma pre
 
 Segue abaixo imagens da Árvore de Decisão da primeira e segunda bases dados, respectivamente:
 
+# Árvore de Decisão Census
 ![CensusPlot](https://user-images.githubusercontent.com/75131562/101822638-62e6c480-3b08-11eb-8d45-7138c4630d60.png)
+
+# Árvore de Decisão Credit
 ![CreditPlot](https://user-images.githubusercontent.com/75131562/101822665-72fea400-3b08-11eb-847b-011933d9f3f8.png)
